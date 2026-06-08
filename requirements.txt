@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose
+passlib[bcrypt]
+python-multipart
+langchain
+chromadb
+sentence-transformers
+pypdf
+langchain-community
